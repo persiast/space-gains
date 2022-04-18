@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Orbit",
+			"Path": "D:\\UE4 Projects\\space-gains\\Orbit\\Source\\Orbit.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OrbitEditor",
+			"Path": "D:\\UE4 Projects\\space-gains\\Orbit\\Source\\OrbitEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE4 Projects\\space-gains\\Orbit\\Source\\Orbit\\Orbit.Build.cs",
+		"D:\\UE4 Projects\\space-gains\\Orbit\\Source\\Orbit.Target.cs",
+		"D:\\UE4 Projects\\space-gains\\Orbit\\Source\\OrbitEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

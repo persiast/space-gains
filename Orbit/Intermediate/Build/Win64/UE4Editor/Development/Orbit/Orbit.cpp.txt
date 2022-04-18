@@ -1,0 +1,2 @@
+D:\UE4 Projects\space-gains\Orbit\Intermediate\Build\Win64\UE4Editor\Development\Orbit\Definitions.Orbit.h
+D:\UE4 Projects\space-gains\Orbit\Source\Orbit\Orbit.h
